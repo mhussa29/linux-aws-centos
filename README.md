@@ -7,3 +7,9 @@
 #https://www.vultr.com/docs/how-to-install-jenkins-on-centos-7
 #https://serverfault.com/questions/710076/centos-7-firewall-cmd-not-found
 #https://www.youtube.com/watch?v=4Z4b1w6YDO4&ab_channel=SapBasisTutorials
+
+
+
+#Publish localhost to public domain
+#https://www.youtube.com/watch?v=vVAnITIjQFQ&ab_channel=AlexAcosta
+#https://ngrok.com/download
